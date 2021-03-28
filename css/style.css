@@ -132,7 +132,7 @@ body {
   background-size: cover; */
 }
 .work-section {
-  background: url(/img/our_work.jpg);
+  background: url(./img/our_work.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
